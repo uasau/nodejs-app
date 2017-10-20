@@ -1,0 +1,6 @@
+files/
+installer/
+*.sh
+*.tgz
+*.pdf
+*.txt
